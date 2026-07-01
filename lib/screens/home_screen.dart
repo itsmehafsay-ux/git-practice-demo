@@ -40,7 +40,7 @@ class _HomeScreenState extends State<HomeScreen> {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: _incrementCounter,
-        backgroundColor: Colors.deepPurple,
+        backgroundColor: Colors.teal,
         child: const Icon(Icons.add, color: Colors.white),
       ),
     );
